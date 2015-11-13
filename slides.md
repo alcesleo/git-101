@@ -3,8 +3,18 @@
     border: none;
     box-shadow: none;
 }
+
+body {
+    background-color: #ffea00;
+}
+
+.reveal,
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+    color: black;
+}
 </style>
 
 <!--  Logo -->
-<!-- .slide: data-background="#FFEA00" -->
 ![](img/git-logo.png)
