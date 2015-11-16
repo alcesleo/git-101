@@ -14,3 +14,5 @@ npm install -g reveal-md
 # Open the slides
 ./bin/slides
 ```
+
+Press `s` to open the speaker notes.
