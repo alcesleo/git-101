@@ -2,10 +2,6 @@
 
 Presentation about getting started with Git.
 
-## Prerequisites
-
-<https://gist.github.com/alcesleo/fa1e39ce018d06a5ab4a>
-
 ## Setup
 
 ```bash
