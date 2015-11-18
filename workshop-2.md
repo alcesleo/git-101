@@ -57,11 +57,11 @@ This is just some extra material and help to get through the exercises.
 - `git pull` - fetch and merge
 - `git push` - upload changes to the remote
 
-### Fixing warnings
+### Fixing problems
 
 #### Password prompt shows up every time I push
 
-This is annoying, and there are two ways of doing it. One is to use SSH, which is a bit harder to set up, or to do this:
+This is annoying, and there are two ways of fixing it. One is to use SSH, which is a bit harder to set up, or to do this:
 
 - On Mac: `git config --global credential.helper osxkeychain`
 - On Windows: `git config --global credential.helper wincred`
