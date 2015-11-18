@@ -47,6 +47,8 @@ This is just some extra material and help to get through the exercises.
 - `git branch develop` - create a branch called develop
 - `git checkout master` - switch to the master branch
 - `git checkout -b develop` - create and switch to a branch called develop
+- `git merge develop` - merge the develop branch into the current branch
+- `git revert 73e42ef` - undo the changes made in 73e42ef
 
 #### Working with remotes
 
