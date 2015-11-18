@@ -63,9 +63,9 @@ This is just some extra material and help to get through the exercises.
 
 This is annoying, and there are two ways of doing it. One is to use SSH, which is a bit harder to set up, or to do this:
 
-On Mac: `git config --global credential.helper osxkeychain`
-On Windows: `git config --global credential.helper wincred`
-On Linux: `git config --global credential.helper cache`
+- On Mac: `git config --global credential.helper osxkeychain`
+- On Windows: `git config --global credential.helper wincred`
+- On Linux: `git config --global credential.helper cache`
 
 Here are more detailed instructions: https://help.github.com/articles/caching-your-github-password-in-git/
 
