@@ -22,7 +22,9 @@ body {
 Note:
 - How many did the pre-lab?
 - Questions are welcome
-- There are visual clients too
+- Everything will be in the terminal
+    - You can use any text editor you want
+    - There are visual clients too
 
 ---
 
@@ -205,13 +207,15 @@ Note:
 ## Going back in time
 
 - `checkout`
-- `revert`
 - `reset --hard`
+- `revert`
 
 Note:
-- Checkout can also be to a commit, or any ref
+- Checkout moves your HEAD
+- Reset moves what HEAD points to
+    - `--hard` means fuck the index
+    - This makes the history in the future here hard to find, since commits can only link backwards
 - Create a new commit without the chosen commit
-- Move your branch pointer, this makes the history after that point hard to find
 
 ---
 
