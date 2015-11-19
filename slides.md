@@ -204,7 +204,7 @@ Note:
 ---
 
 <!-- .slide: data-background="#e8e8e8" -->
-## Going back in time
+## Moving around
 
 - `checkout`
 - `reset --hard`
