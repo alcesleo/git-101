@@ -31,13 +31,16 @@ Note:
 ## Roadmap
 
 - **Part 1:** Version control
-    - The what, why and how of version control
+    - Why Git?
     - Git basics
 - **Workshop 1**
 - **Part 2:** Diverging paths
     - Working in parallel
-    - GitHub
+    - Working together
 - **Workshop 2**
+
+Note:
+Working in parallel and together is almost the same thing.
 
 ---
 
