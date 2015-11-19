@@ -241,14 +241,14 @@ Note:
 <!-- .slide: data-background="#e8e8e8" -->
 ## Working with remotes
 
-- `clone`
 - `fetch`
 - `pull`
 - `push`
+- `clone`
 
 Note:
 - Don't start using `push` until you feel comfortable with fetch+merge.
-- Use `git push -u origin dev`
+- I'll show you the clone command later
 
 ---
 
