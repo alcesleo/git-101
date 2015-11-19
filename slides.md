@@ -226,6 +226,7 @@ Note:
 - Reset moves what HEAD points to
     - This makes the history in the future here hard to find, since commits can only link backwards
 - Create a new commit without the chosen commit
+- `git log --oneline --decorate`
 
 ---
 
