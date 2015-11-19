@@ -252,6 +252,11 @@ Note:
 
 ---
 
+<!-- .slide: data-background="img/force-push.gif" -->
+## git push --force
+
+---
+
 ## GitHub
 
 - Hosts your code                              <!-- .element: class="fragment" -->
