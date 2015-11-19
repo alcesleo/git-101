@@ -207,6 +207,14 @@ Note:
 ---
 
 <!-- .slide: data-background="#e8e8e8" -->
+## Conflict resolution
+
+Note:
+Any change will be valid here - PLEASE DON'T
+
+---
+
+<!-- .slide: data-background="#e8e8e8" -->
 ## Moving around
 
 - `checkout`
@@ -226,11 +234,6 @@ Note:
 - `HEAD^`
 - `HEAD^^`
 - `HEAD~2`
-
----
-
-<!-- .slide: data-background="#e8e8e8" -->
-## Conflict resolution
 
 ---
 
