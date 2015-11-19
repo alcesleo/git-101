@@ -210,15 +210,22 @@ Note:
 ## Moving around
 
 - `checkout`
-- `reset --hard`
+- `reset`
 - `revert`
 
 Note:
 - Checkout moves your HEAD
 - Reset moves what HEAD points to
-    - `--hard` means fuck the index
     - This makes the history in the future here hard to find, since commits can only link backwards
 - Create a new commit without the chosen commit
+
+---
+
+## Relative commits
+
+- `HEAD^`
+- `HEAD^^`
+- `HEAD~2`
 
 ---
 
