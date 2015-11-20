@@ -211,7 +211,8 @@ Note:
 ## Conflict resolution
 
 Note:
-Any change will be valid here - PLEASE DON'T
+- Get out with `git merge --abort`
+- Any change will be valid here - PLEASE DON'T
 
 ---
 
