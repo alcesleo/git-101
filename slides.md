@@ -243,12 +243,14 @@ Note:
 <!-- .slide: data-background="#e8e8e8" -->
 ## Working with remotes
 
-- `fetch`
-- `pull`
-- `push`
 - `clone`
+- `fetch`
+- `push`
+- `pull`
 
 Note:
+- A place to upload and download code from
+- Can be GitHub but doesn't have to be
 - Don't start using `push` until you feel comfortable with fetch+merge.
 - I'll show you the clone command later
 
