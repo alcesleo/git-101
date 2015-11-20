@@ -240,6 +240,13 @@ Note:
 
 ---
 
+## Remotes
+
+- A place to upload and download code from
+- Can be GitHub but doesn't have to be
+
+---
+
 <!-- .slide: data-background="#e8e8e8" -->
 ## Working with remotes
 
@@ -249,8 +256,6 @@ Note:
 - `pull`
 
 Note:
-- A place to upload and download code from
-- Can be GitHub but doesn't have to be
 - Don't start using `push` until you feel comfortable with fetch+merge.
 - I'll show you the clone command later
 
