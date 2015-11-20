@@ -262,7 +262,7 @@ Note:
 ---
 
 <!-- .slide: data-background="img/force-push.gif" -->
-## git push --force
+## git push --force <!-- .element: style="color: red;" -->
 
 ---
 
