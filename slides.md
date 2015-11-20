@@ -155,6 +155,7 @@ Note:
 - Run `status` and `log` often
 - Run `diff --staged` to see what you are committing
 - Read and follow instructions from git
+- `git help` (exit with `q`)
 - Google
 
 ---
