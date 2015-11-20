@@ -94,7 +94,7 @@ Note:
 
 **A frozen point in history**
 
-- Changes                       <!-- .element: class="fragment" -->
+- State                         <!-- .element: class="fragment" -->
 - A commit message              <!-- .element: class="fragment" -->
 - Who wrote it (name, email)    <!-- .element: class="fragment" -->
 - When it was committed         <!-- .element: class="fragment" -->
@@ -146,7 +146,7 @@ git diff                       # see what changed in your working directory
 ```
 
 Note:
-- `git diff` will only work if it has a previous commit
+- Make a mistake with `git commit "Stuff"`, this error is very unclear
 
 ---
 
