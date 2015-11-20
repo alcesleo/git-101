@@ -258,6 +258,7 @@ Note:
 Note:
 - Don't start using `push` until you feel comfortable with fetch+merge.
 - I'll show you the clone command later
+- Sometimes your push gets rejected, and you have to pull first
 
 ---
 
